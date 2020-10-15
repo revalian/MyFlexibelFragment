@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    name="btn_profile" type="id">btn_profile
+    name="btn_show_dialog" type="id">btn_show_dialog
+   name="rb_lvg" type="id">rb_lvg
+</resources>
